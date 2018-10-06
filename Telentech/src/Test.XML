@@ -1,0 +1,9 @@
+
+<suite name="Admin" parallel="false">
+  <test name="Sanity">
+    <classes>
+      <class name="TestNg.hardiktestNG"/>
+      <class name="TestNg.simple2"/>
+    </classes>
+  </test> 
+</suite> 
